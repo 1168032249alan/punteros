@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1529677409 source:c:\users\alumno\desktop\modelo de examen\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraylist.h"
+
+1529672945 c:\users\alumno\desktop\modelo de examen\arraylist.h
+
+1529677118 source:c:\users\alumno\desktop\modelo de examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tramite.h"
+	"arraylist.h"
+
+1529679543 c:\users\alumno\desktop\modelo de examen\tramite.h
+
+1529677361 source:c:\users\alumno\desktop\modelo de examen\tramite.c
+	"tramite.h"
+	<stdio.h>
+	<stdlib.h>
+
